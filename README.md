@@ -13,6 +13,16 @@ O grande intuito é amparar à população em meio a esta situação de crise de
 
 ----
 
+<h1 align="justify"> Funcionalidades</h1>
+
+<p> ✔️ Funcionalidade 1 - Page informativa com cuidados para evitar o contagio e sintomas do Covid - 19.</p> 
+
+<p> ✔️ Funcionalidade 2 - Filtro com número pessoas infectadas em todo o território nacional.</p> 
+
+<p> ✔️ Funcionalidade 3 - Filtro comparativo entre os entrados brasileiros. </p> 
+
+
+
 <h1 align="justify">🚀 Tecnologias Utilizadas</h1>
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 ReactJS
