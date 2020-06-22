@@ -34,6 +34,11 @@ Prettier
 IDE
 Visual Studio Code
 
+----
+<h1> Layout ou Deploy da Aplicação 💨 </h1>
+
+----
+
 📦 Como baixar o projeto
 Para copiar o projeto, utilize os comandos:
  # Clonar o repositório
