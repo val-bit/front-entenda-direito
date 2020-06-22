@@ -13,7 +13,7 @@ O grande intuito é amparar à população em meio a esta situação de crise de
 
 ----
 
-🚀 Tecnologias Utilizadas
+<h1 align="justify">🚀 Tecnologias Utilizadas</h1>
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 ReactJS
 TypeScript
