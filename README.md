@@ -5,9 +5,13 @@
 <h1 align="justify"> Sobre o Projeto</h1>
 O Covid Corporation é uma aplicação que visa realizar uma amostragem do avanço da Covid 19, nos Estados brasileiros. Além disso a aplicação possui conteúdo informativo, e um ChatBot para auto exame do Covid - 19.
 
-⁉️ Motivo
+---
+
+<h1 align="justify"> ⁉️ Motivo</h1>
 Levando em consideração o cenário de Pandemia, e a preocupação constante devido ao aumento da curva de contágio do Vírus, desenvolvemos uma aplicação Web para trazer esses dados, que se atualizam em tempo real.
 O grande intuito é amparar à população em meio a esta situação de crise de Saúde Pública através de um Portal Web com ferramentas que apresentem informações da atual situação do contágio em todo o território nacional. 
+
+----
 
 🚀 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias
