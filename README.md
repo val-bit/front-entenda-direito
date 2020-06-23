@@ -2,9 +2,6 @@
   Entenda Direito ⚖
 </h1>
 
-<p align="center">
-  <img src="./tmp/spoiler.gif" >
-</p>
 
 ---
 
